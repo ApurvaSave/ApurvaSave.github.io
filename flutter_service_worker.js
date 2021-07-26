@@ -4,9 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "app.js": "38349c3a408b36bed33e8753937f927a",
-"assets/AssetManifest.json": "63ee8c501a35242b5fb37a34bb980539",
+"assets/AssetManifest.json": "79b49940c292cba5a3f7b78da42b0e1f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.ttf": "548cdd0e4a7d21c2a9c3bc8580254239",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/images/audio_upload.png": "d11a999a5ea5dbbbb1b9e57c31140281",
+"assets/images/back.png": "f7978618fd97eea67efb1cfd5b75ed63",
+"assets/images/image_upload.png": "73495357778d42f525d5b7cd42a4b84d",
 "assets/images/img_not_available.jpeg": "1c98fa4a13575d5854365f27b8bf66dc",
 "assets/images/mimi1.gif": "477fc8ddd40d200fe8f2635b5151a873",
 "assets/images/mimi2.gif": "82a783353a27abe59feafd40bc686af1",
@@ -19,6 +22,10 @@ const RESOURCES = {
 "assets/images/mimi9.gif": "b5ec7c32285b24c09eca4646a4511518",
 "assets/images/music.png": "38dc2f1067a00d420f80cbc34d39863e",
 "assets/images/music_background.png": "172a0069f1de32e562a7efd365c17ae5",
+"assets/images/send.png": "8daa460e28e87a0fa6ecd007e8f6f484",
+"assets/images/settings.png": "4752b1fa9750da42581f865122888551",
+"assets/images/user.png": "e2aa9bfb5f8bbaf478060473aac49fa0",
+"assets/images/video_upload.png": "da8136d2802150078790eea290682dff",
 "assets/images/youtube.png": "17042af756c95b9218bdc846272e7940",
 "assets/NOTICES": "103fa1e7feeb199d3c2da68d9a9b41de",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -28,9 +35,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5a86e1a576b168c1eab7d8177f43c914",
-"/": "5a86e1a576b168c1eab7d8177f43c914",
-"main.dart.js": "6b5729e647ce0d6b379d24fe8a370a65",
+"index.html": "4592d290f26268585bebcbb6f3349265",
+"/": "4592d290f26268585bebcbb6f3349265",
+"main.dart.js": "171b10b1c82563c1f8fc4c6b7f13d244",
 "manifest.json": "5c81e80a28ad67283ba2dfce4e11d5d5",
 "version.json": "ad11a5efdd9d7c44a03965918a0f68d7"
 };
