@@ -6,7 +6,6 @@ const RESOURCES = {
   "app.js": "38349c3a408b36bed33e8753937f927a",
 "assets/AssetManifest.json": "63ee8c501a35242b5fb37a34bb980539",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/fonts/MaterialIcons-Regular.ttf": "548cdd0e4a7d21c2a9c3bc8580254239",
 "assets/images/img_not_available.jpeg": "1c98fa4a13575d5854365f27b8bf66dc",
 "assets/images/mimi1.gif": "477fc8ddd40d200fe8f2635b5151a873",
